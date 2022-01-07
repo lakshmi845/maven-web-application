@@ -39,4 +39,11 @@ steps:
     repository: '2015lakshmi / azureimageweb'
     command: 'buildAndPush'
     Dockerfile: '**/Dockerfile'
+    - task: Docker@2
+      inputs:
+        containerRegistry: 'ACR'
+        repository: 'ACRREPO_web'
+        command: 'buildAndPush'
+        Dockerfile: '**/Dockerfile'
+
     
