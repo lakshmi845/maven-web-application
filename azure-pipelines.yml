@@ -41,7 +41,7 @@ steps:
     Dockerfile: '**/Dockerfile'
     - task: Docker@2
       inputs:
-        containerRegistry: 'javaapplicationacr'
+        containerRegistry: 'javaapplicationACR'
         repository: 'ACRREPO_web'
         command: 'buildAndPush'
         Dockerfile: '**/Dockerfile'
