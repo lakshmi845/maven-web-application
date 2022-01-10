@@ -9,6 +9,8 @@
 </head>
 </head>
 <body>
+<body bgcolor-"green">
+	
 <h1 align="center">Welcome to  Capgemini Software Solutions. Bengaluru,Karnataka </h1>
 <h1 align="center"> Capgemini Software Solutions- Very Good Training center for DevOps with AWS and Azure </h1>
 <br>
