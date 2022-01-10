@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<body bgcolor-"green">
+<body bgcolor="green">
 	
 <h1 align="center">Welcome to  Capgemini Software Solutions. Bengaluru,Karnataka </h1>
 <h1 align="center"> Capgemini Software Solutions- Very Good Training center for DevOps with AWS and Azure </h1>
@@ -32,7 +32,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/capgemini.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
